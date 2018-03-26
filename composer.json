@@ -1,0 +1,13 @@
+{
+    "name": "dontar/phpivot",
+    "description": "Pivot",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Kaloyan Arsov",
+            "email": "kaloyan.arsov@gmail.com"
+        }
+    ],
+    "require": {}
+}
