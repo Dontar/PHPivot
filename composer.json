@@ -2,12 +2,17 @@
     "name": "dontar/phpivot",
     "description": "Pivot",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Kaloyan Arsov",
             "email": "kaloyan.arsov@gmail.com"
         }
     ],
+    "autoload": {
+        "classmap": [
+            "PHPivot.php"
+        ]
+    },
     "require": {}
 }
